@@ -1,0 +1,26 @@
+#menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 12rem;
+  padding: 2rem 1rem;
+  background-color: #f8f9fa;
+}
+
+#pagina {
+  margin-left: 14rem;
+  margin-right: 2rem;
+  padding: 2rem 1rem;
+}
+
+#icon_menu {
+  cursor: pointer;
+  margin-bottom: 10px;
+  padding: auto;
+}
+
+#menu_configuracoes {
+  bottom: 0;
+  position: fixed;
+}
